@@ -66,12 +66,18 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashkumarvaibhav&show_icons=true&hide_border=true&count_private=true&title_color=3FADA8&icon_color=3FADA8&text_color=4D4D4D&bg_color=FFFFFF" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkumarvaibhav&layout=compact&hide_border=true&title_color=3FADA8&text_color=4D4D4D&bg_color=FFFFFF" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-green-three-39.vercel.app/api?username=yashkumarvaibhav&show_icons=true&hide_border=true&count_private=true&title_color=3FADA8&icon_color=3FADA8&text_color=4D4D4D&bg_color=FFFFFF" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-green-three-39.vercel.app/api/top-langs/?username=yashkumarvaibhav&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook&title_color=3FADA8&text_color=4D4D4D&bg_color=FFFFFF" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumarvaibhav&hide_border=true&background=FFFFFF&ring=3FADA8&fire=3FADA8&currStreakLabel=3FADA8&sideLabels=4D4D4D&dates=808080" alt="GitHub streak"/>
+  <img src="https://img.shields.io/badge/Repositories-23%20·%2014%20public%20%7C%209%20private-3FADA8?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-13%20·%2012%20merged-3FADA8?style=flat-square&logo=git&logoColor=white" alt="Pull requests"/>
+  <img src="https://img.shields.io/badge/On%20GitHub%20since-Oct%202019-3FADA8?style=flat-square&logo=github&logoColor=white" alt="On GitHub since"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yashkumarvaibhav&hide_border=true&background=FFFFFF&ring=3FADA8&fire=3FADA8&currStreakLabel=3FADA8&sideLabels=4D4D4D&dates=808080" alt="GitHub streak"/>
 </p>
 
 ---

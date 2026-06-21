@@ -101,7 +101,7 @@
 ![Problems](https://img.shields.io/badge/Problems%20Solved-500%2B-3FADA8?style=flat-square)
 ![TON MaraTON](https://img.shields.io/badge/TON%20MaraTON-Rank%2060-0098EA?style=flat-square&logo=ton&logoColor=white)
 
-<p align="center"><sub>JEE Advanced 2019 · AIR 7789 &nbsp;|&nbsp; Naukri Engineers' Ring of Honour · AIR 36</sub></p>
+<p align="center"><sub>JEE Advanced · AIR 7789 &nbsp;|&nbsp; Naukri Engineers' Ring of Honour · AIR 36</sub></p>
 
 ---
 

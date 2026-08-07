@@ -2,7 +2,6 @@
 
 <p align="center">
   Software Engineer · M.Tech CSE @ IIIT Delhi<br/>
-  C++ backend systems · applied deep learning · algorithms
 </p>
 
 <p align="center">

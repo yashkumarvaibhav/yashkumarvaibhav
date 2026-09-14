@@ -1,111 +1,104 @@
 <h1 align="center">Yash Kumar Vaibhav</h1>
 
 <p align="center">
-  Software Engineer · M.Tech CSE @ IIIT Delhi<br/>
+  Software Engineer · Backend & Distributed Systems · Applied ML and LLM Systems
 </p>
 
 <p align="center">
-  <a href="https://yashkumarvaibhav.me"><img src="https://img.shields.io/badge/Portfolio-yashkumarvaibhav.me-3FADA8?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://yashkumarvaibhav.me"><img src="https://img.shields.io/badge/Portfolio-yashkumarvaibhav.me-277A75?style=flat-square" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yashkumarvaibhav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://codeforces.com/profile/yashkumarvaibhav"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/u/yashkumarvaibhav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/yashkumarvaibhav"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces Expert"/></a>
   <a href="mailto:yashkumarvaibhav.official@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&duration=3500&pause=900&color=3FADA8&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+IIIT+Delhi+M.Tech+CSE;C%2B%2B+backend+systems+and+low-latency+code;Applied+deep+learning+in+PyTorch;Codeforces+Expert+and+500%2B+problems+solved" alt="Typing intro"/>
-</p>
+I am a software engineer focused on backend and distributed systems, with applied machine-learning
+and LLM work where outputs are designed to be checked. I am completing an M.Tech in Computer Science
+and Engineering at IIIT-Delhi (CGPA 9.52) after a B.E. in CSE from Thapar Institute.
 
----
+Before the M.Tech, I spent 2.25 years at SivaTech Solutions: a six-month internship followed by 1.75
+years on a full-time contract. I worked on the C++ backend of a proprietary algorithmic-trading
+platform, including latency-critical order execution, multithreaded components, market-data feeds,
+and trading logic.
 
-### About
+## Featured engineering work
 
-- 🎓 M.Tech CSE at **IIIT Delhi** (CGPA 9.41) · B.E. CSE, Thapar Institute
-- 🛠️ Building **GWiz** — an agentic AI assistant for Google Workspace (FastAPI · React · LangGraph)
-- 🧠 Applied deep learning — an ELECTRA transformer for gut-microbiome disease prediction (**0.85 AUROC**)
-- 💼 Built a production **C++ algorithmic-trading backend** with low-latency execution paths
-- ⚔️ **Codeforces Expert** (1728) · **CodeChef 4★** · **500+** problems across LeetCode & Code360
-- 📫 Reach me at **yashkumarvaibhav.official@gmail.com**
+### [Sentinel](https://github.com/yashkumarvaibhav/sentinel) — observability and verified remediation
 
----
+Python 3.12 · FastAPI · Kafka/Redpanda · ClickHouse · PostgreSQL · OpenTelemetry · Kubernetes
 
-### Tech Stack
+Decomposes traffic surges into baseline, event-explained, and unexplained residuals, then requires a
+deterministic verifier before a reversible action can run. The lab uses real telemetry with injected
+faults and attacks, labels simulated evidence explicitly, and is held to 1,000+ Python tests plus a
+four-job CI pipeline. [Live command center](https://sentinel.yashkumarvaibhav.me)
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### [Job Pilot](https://github.com/yashkumarvaibhav/job-pilot) — multi-tenant job-search CRM
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+TypeScript · Next.js · React · SQLite · Drizzle ORM · Gmail API · OAuth 2.0
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+A deterministic CRM and outreach engine for companies, contacts, applications, referrals, tasks,
+and email sequences. The Gmail path separates inbox freshness from thread-level send safety, and
+every third-party sequence message needs its own approval. The project includes 31 schema migrations,
+workspace-scoped data boundaries, replay-safe TOTP, and verified backup/restore tooling.
+[Live early access](https://jobpilot.yashkumarvaibhav.me)
 
----
+### [ELECTRA for Human Gut Microbiomes](https://github.com/yashkumarvaibhav/DL-HumanGutMicrobiome) — cross-study ML evaluation
 
-### Featured Projects
+Python · PyTorch · Hugging Face Transformers · scikit-learn · Self-supervised learning
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **GWiz** | Agentic AI assistant spanning Gmail, Calendar, Drive, Docs, Tasks & Classroom, with human-in-the-loop actions | FastAPI · React · LangGraph · Gemini/OpenAI | [Live](https://gwiz.yashkumarvaibhav.me) |
-| **Gut Microbiome Disease Prediction** | ELECTRA transformer over a 16,721-sample microbial corpus — 0.85 AUROC | PyTorch · Hugging Face · scikit-learn | [Source](https://github.com/yashkumarvaibhav/DL-HumanGutMicrobiome) |
-| **IIIT Delhi Placement Tracker** | Multi-batch placement analytics — companies, offers, CTC stats & admin | React · Express · PostgreSQL · Supabase | [Live](https://yashkumarvaibhav.me/Placement_Tracker/) · [Source](https://github.com/yashkumarvaibhav/Placement_Tracker) |
+Trained ELECTRA from scratch over 16,721 microbiome samples across 129 studies. The best
+study-overlapping split reached 0.8518 AUROC; a five-study leave-one-study-out evaluation fell to a
+0.6312 macro mean, exposing the batch effects hidden by the stronger headline number.
 
----
+### GWiz — human-in-the-loop LLM assistant for Google Workspace
 
-### GitHub Stats
+Python · FastAPI · LangGraph · OAuth 2.0 · React · TypeScript
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-green-three-39.vercel.app/api?username=yashkumarvaibhav&show_icons=true&hide_border=true&count_private=true&title_color=3FADA8&icon_color=3FADA8&text_color=4D4D4D&bg_color=FFFFFF" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-green-three-39.vercel.app/api/top-langs/?username=yashkumarvaibhav&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook&title_color=3FADA8&text_color=4D4D4D&bg_color=FFFFFF" alt="Top languages"/>
-</p>
+On a shared five-contributor project, I owned the backend around checkpointed approve/edit/cancel
+flows, ten Workspace APIs, and a multi-provider LLM layer. The application uses the open-source,
+pre-1.0 Google Workspace CLI (`gws`) with a direct-REST fallback only when the CLI itself fails, and
+the repository is held to 750+ pytest tests. [Live application](https://gwiz.yashkumarvaibhav.me)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-23%20·%2014%20public%20%7C%209%20private-3FADA8?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
-  <img src="https://img.shields.io/badge/Pull%20Requests-13%20·%2012%20merged-3FADA8?style=flat-square&logo=git&logoColor=white" alt="Pull requests"/>
-  <img src="https://img.shields.io/badge/On%20GitHub%20since-Oct%202019-3FADA8?style=flat-square&logo=github&logoColor=white" alt="On GitHub since"/>
-</p>
+### [TradeVault](https://github.com/yashkumarvaibhav/TradeVault) — deterministic trading-risk workbench
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashkumarvaibhav&hide_border=true&background=FFFFFF&ring=3FADA8&fire=3FADA8&currStreakLabel=3FADA8&sideLabels=4D4D4D&dates=808080" alt="GitHub streak"/>
-</p>
+TypeScript · Next.js · PostgreSQL · Monte Carlo · Kelly criterion · Web Workers
 
----
+A trading journal whose pure domain core bootstraps deterministic Monte Carlo paths from realized
+R-multiples and computes Kelly sizing two ways. Every result carries “historical scenario, not a
+forecast,” enforces a 30-trade minimum, and keeps INR and USD accounting separate.
+[Live application](https://tradevault.yashkumarvaibhav.me)
 
-### Contribution Graph
+### [CoExist Alert](https://github.com/yashkumarvaibhav/CoExist-Alert) — edge early warning for human–wildlife conflict
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashkumarvaibhav/yashkumarvaibhav/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashkumarvaibhav/yashkumarvaibhav/output/github-snake-teal.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/yashkumarvaibhav/yashkumarvaibhav/output/github-snake-teal.svg"/>
-  </picture>
-</p>
+TypeScript · Next.js · SQLite · Cisco Webex · Vitest · Playwright
 
----
+Team GitBoosters' Code with Cisco 2026 finalist project. The field sensor network is simulated and
+labelled; Webex dispatch is live when configured. The platform combines signal confirmation, alert
+escalation, sensor-health monitoring, and responder workflows with 280 unit tests and 18 Playwright
+specifications. [Live demonstration](https://coexist.yashkumarvaibhav.me)
 
-### Competitive Programming
+## Technical focus
 
-![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20·%201728-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=flat-square&logo=codechef&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-500%2B-3FADA8?style=flat-square)
-![TON MaraTON](https://img.shields.io/badge/TON%20MaraTON-Rank%2060-0098EA?style=flat-square&logo=ton&logoColor=white)
+| Area | Technologies and concepts |
+| --- | --- |
+| Backend and distributed systems | Python, C++, TypeScript, FastAPI, Node.js, REST APIs, Kafka, stream processing, concurrency |
+| Data and infrastructure | PostgreSQL, SQLite, ClickHouse, Docker, Kubernetes, OpenTelemetry, Linux |
+| ML and LLM systems | PyTorch, Hugging Face Transformers, scikit-learn, LangGraph, human-in-the-loop workflows, evaluation and guardrails |
+| Verification | pytest, Vitest, Playwright, property-based testing, strict typing, CI, deterministic replay |
 
-<p align="center"><sub>JEE Advanced · AIR 7789 &nbsp;|&nbsp; Naukri Engineers' Ring of Honour · AIR 36</sub></p>
+## How I build
 
----
+For my independently directed systems, I write the specifications and decision logs, choose the
+architecture and trade-offs, and use coding agents through a spec-driven workflow with test gates.
+The product decisions are mine, and I prepare to explain the critical components from first
+principles. Team projects such as GWiz and CoExist Alert are identified as team work and credited as
+such.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashkumarvaibhav&color=3FADA8&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
+## Selected credentials
 
-<p align="center"><sub>More at <a href="https://yashkumarvaibhav.me">yashkumarvaibhav.me</a></sub></p>
+- Codeforces Expert — maximum rating 1728
+- Code with Cisco 2026 — finalist (top 75 of approximately 30,000) and Gold Flag Challenge winner
+- Amazon ML Summer School 2026 — selected among the top 3,000 of 134,421 registrants
+- 500+ algorithmic problems solved across LeetCode and Code360
+
+I am open to software engineering, backend, distributed-systems, and machine-learning engineering
+opportunities.

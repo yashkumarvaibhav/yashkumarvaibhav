@@ -15,10 +15,9 @@ I am a software engineer focused on backend and distributed systems, with applie
 and LLM work where outputs are designed to be checked. I am completing an M.Tech in Computer Science
 and Engineering at IIIT-Delhi (CGPA 9.52) after a B.E. in CSE from Thapar Institute.
 
-Before the M.Tech, I spent 2.25 years at SivaTech Solutions: a six-month internship followed by 1.75
-years on a full-time contract. I worked on the C++ backend of a proprietary algorithmic-trading
-platform, including latency-critical order execution, multithreaded components, market-data feeds,
-and trading logic.
+Before the M.Tech, I built the C++ backend of a proprietary algorithmic-trading platform at SivaTech
+Solutions, first as an intern and then on contract: latency-critical order execution, multithreaded
+components, market-data feeds, and trading logic.
 
 ## Featured engineering work
 
@@ -29,7 +28,7 @@ Python 3.12 · FastAPI · Kafka/Redpanda · ClickHouse · PostgreSQL · OpenTele
 Decomposes traffic surges into baseline, event-explained, and unexplained residuals, then requires a
 deterministic verifier before a reversible action can run. The lab uses real telemetry with injected
 faults and attacks, labels simulated evidence explicitly, and is held to 1,000+ Python tests plus a
-four-job CI pipeline. [Live command center](https://sentinel.yashkumarvaibhav.me)
+four-job CI pipeline.
 
 ### [Job Pilot](https://github.com/yashkumarvaibhav/job-pilot) — multi-tenant job-search CRM
 
@@ -39,7 +38,6 @@ A deterministic CRM and outreach engine for companies, contacts, applications, r
 and email sequences. The Gmail path separates inbox freshness from thread-level send safety, and
 every third-party sequence message needs its own approval. The project includes 31 schema migrations,
 workspace-scoped data boundaries, replay-safe TOTP, and verified backup/restore tooling.
-[Live early access](https://jobpilot.yashkumarvaibhav.me)
 
 ### [ELECTRA for Human Gut Microbiomes](https://github.com/yashkumarvaibhav/DL-HumanGutMicrobiome) — cross-study ML evaluation
 
@@ -53,10 +51,10 @@ study-overlapping split reached 0.8518 AUROC; a five-study leave-one-study-out e
 
 Python · FastAPI · LangGraph · OAuth 2.0 · React · TypeScript
 
-On a shared five-contributor project, I owned the backend around checkpointed approve/edit/cancel
+In a shared team repository, I owned the backend around checkpointed approve/edit/cancel
 flows, ten Workspace APIs, and a multi-provider LLM layer. The application uses the open-source,
 pre-1.0 Google Workspace CLI (`gws`) with a direct-REST fallback only when the CLI itself fails, and
-the repository is held to 750+ pytest tests. [Live application](https://gwiz.yashkumarvaibhav.me)
+the repository is held to 750+ pytest tests. The repository is private to the team.
 
 ### [TradeVault](https://github.com/yashkumarvaibhav/TradeVault) — deterministic trading-risk workbench
 
@@ -65,16 +63,15 @@ TypeScript · Next.js · PostgreSQL · Monte Carlo · Kelly criterion · Web Wor
 A trading journal whose pure domain core bootstraps deterministic Monte Carlo paths from realized
 R-multiples and computes Kelly sizing two ways. Every result carries “historical scenario, not a
 forecast,” enforces a 30-trade minimum, and keeps INR and USD accounting separate.
-[Live application](https://tradevault.yashkumarvaibhav.me)
 
 ### [CoExist Alert](https://github.com/yashkumarvaibhav/CoExist-Alert) — edge early warning for human–wildlife conflict
 
 TypeScript · Next.js · SQLite · Cisco Webex · Vitest · Playwright
 
-Team GitBoosters' Code with Cisco 2026 finalist project. The field sensor network is simulated and
+Team GitBoosters' submission to the Code with Cisco 2026 Silver Flag CSR Challenge. The field sensor network is simulated and
 labelled; Webex dispatch is live when configured. The platform combines signal confirmation, alert
 escalation, sensor-health monitoring, and responder workflows with 280 unit tests and 18 Playwright
-specifications. [Live demonstration](https://coexist.yashkumarvaibhav.me)
+specifications.
 
 ## Technical focus
 
